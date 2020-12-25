@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VRT Radio 1" tvg-name="VRT Radio 1" tvg-logo="https://images.vrt.be/orig/2020/10/16/628b4a6e-0f83-11eb-aae0-02b7b76bf47f.jpg" group-title="BELGIUM", VRT Radio1
+https://live-radio-cf-vrt.akamaized.net/groupb/live/47303075-8243-434b-8199-2e62cf4dd97a/live.isml/.m3u8
+#EXTINF:-1 tvg-id="VRT Radio 1" tvg-name="VRT Radio 2" tvg-logo="https://radio2.be/themes/vrt/radio2/radio2/dist/images/radio2-logo.svg" group-title="BELGIUM", VRT Radio2
+https://live-radio-cf-vrt.akamaized.net/groupc/live/1e08f370-1f20-4807-aaa3-051c7f0d8359/live.isml/.m3u8
+#EXTINF:-1 tvg-id="VRT MNM" tvg-name="VRT MNM" tvg-logo="https://mnm.be/images/noa/MNM.jpg" group-title="BELGIUM", VRT MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/68dc3b80-040e-4a75-a394-72f3bb7aff9a/live.isml/.m3u8
